@@ -22,3 +22,16 @@ Primary data source is from goggle etc
 - SQL
 - PowerBI
 - Oracle
+
+### Data Cleaning
+
+Cleansing of the data:
+ 1. Data Loading
+ 2. Data missing
+
+
+``` SQL
+SELECT A,B,C
+WHERE A> 15
+```
+
