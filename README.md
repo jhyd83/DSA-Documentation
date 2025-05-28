@@ -35,3 +35,8 @@ SELECT A,B,C
 WHERE A> 15
 ```
 
+### ANALYSIS
+
+**BOLD**
+*Italics*
+
